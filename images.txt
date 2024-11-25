@@ -10,4 +10,5 @@
 #nacos/nacos-server:v2.3.2
 sentinel:1.8.2
 #tomcat:8.5.91-jdk8-openjdk
-openjdk:8-jdk-alpine
+#openjdk:8-jdk-alpine
+ngnix:1.19.4
