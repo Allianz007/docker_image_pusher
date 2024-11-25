@@ -11,4 +11,4 @@
 sentinel:1.8.2
 #tomcat:8.5.91-jdk8-openjdk
 #openjdk:8-jdk-alpine
-ngnix:1.19.4
+nginx:1.19.4
